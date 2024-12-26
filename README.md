@@ -50,7 +50,7 @@ pip install .
 ## Usage
 Here’s an example to get started with **SiNE**
 ```python
-from SINanalyser import integrated_network_construction
+from SINanalyzer import integrated_network_construction
 import pandas as pd
 
 # Define the file path to your gene expression matrix
