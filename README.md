@@ -30,7 +30,7 @@ This package is designed to explore individual biological characteristics in com
 1. Use the following command to clone this repository and install locally
 
 ```bash
-git clone https://github.com/TashaTu/SINanalyzer.git
+git clone https://github.com/SysMednet/SINanalyser.git
 cd SINanalyzer
 ```
 2. Create a virtual environment (optional but recommended)
